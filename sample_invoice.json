@@ -1,0 +1,25 @@
+{
+  "invoice_id": "INV-2024-001",
+  "vendor": "Tech Solutions Ltd",
+  "date": "2024-02-15",
+  "items": [
+    {
+      "name": "Server Hardware",
+      "price": 150000,
+      "qty": 2
+    },
+    {
+      "name": "Software License",
+      "price": 25000,
+      "qty": 1
+    },
+    {
+      "name": "Installation Service",
+      "price": 10000,
+      "qty": 1
+    }
+  ],
+  "subtotal": 360000,
+  "tax": 64800,
+  "total": 424800
+}

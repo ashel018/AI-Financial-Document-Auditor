@@ -1,0 +1,15 @@
+{
+  "invoice_id": "INV-2024-FRAUD",
+  "vendor": "Fake Inc",
+  "date": "2024-02-20",
+  "items": [
+    {
+      "name": "Consulting Services",
+      "price": 100000,
+      "qty": 1
+    }
+  ],
+  "subtotal": 100000,
+  "tax": 18000,
+  "total": 550000
+}
